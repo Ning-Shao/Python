@@ -6,7 +6,6 @@
 ```python
 print("Hello, world!")
 
-Python/
-├── 01_基础语法/
-├── 02_数据结构/
-└── 03_算法/
+friends = ['Taylor', 'Alex', 'Pat', 'Eli']
+for friend in friends:
+    print("Hi"+friend)
